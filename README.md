@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+YUXUAN+GUAN's+Hub!;Please+Look+Around!&center=false&color=24F354&height=75&width=500&size=32&duration=5300&pause)](https://git.io/typing-svg)
 
 <!--
 **GYX2006/GYX2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
