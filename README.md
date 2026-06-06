@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+YUXUAN+GUAN's+Hub!;Please+Look+Around!&center=false&color=24F354&height=75&width=500&size=32&duration=5300&pause)](https://git.io/typing-svg)
 
+我是南开大学计算机科学与技术 25级本科生
 
+有事可发邮件：2513324@mail.nankai.edu.cn / 1784704443@qq.com
 
 
 
